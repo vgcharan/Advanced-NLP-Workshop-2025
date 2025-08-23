@@ -28,6 +28,5 @@ Slides and written material are licensed under [CC BY 4.0](https://creativecommo
 You are free to share and adapt this material with proper attribution.  
 
 ## ✉️ Contact
-- **Author:** V. Guru Charan  
-- **Email:** vgc@pm.me  
-- **LinkedIn:** [vgurucharan](https://www.linkedin.com/in/vgurucharan/)  
+**V. Guru Charan** – [Email](mailto:vgc@pm.me) | [LinkedIn](https://www.linkedin.com/in/vgurucharan)
+
