@@ -13,7 +13,7 @@
 - [Neel Nanda YouTube Channel & Blog](https://www.youtube.com/@neelnanda2469) – deep dives into transformer theory and interpretability  
 - [Arize AI Community Paper Readings](https://www.deeppapers.dev/) (Deep Papers Podcast) – transformer/LLM research discussion  
 - [hu-po YouTube Channel](https://www.youtube.com/@hu-po) – AI/ML research paper discussions  
-- Courses on AI Governance: [BlueDot Impact](https://bluedot.org/) & AI Safety Collab  
+- [BlueDot Impact](https://bluedot.org/) & AI Safety Collab - Courses on AI Governance
 - [AI Safety Atlas](https://ai-safety-atlas.com/)  
 - [Machine Learning Street Talk (MLST) Podcast](https://www.youtube.com/@MachineLearningStreetTalk)  
 - Blogs: [Less Wrong](https://www.lesswrong.com/), [80,000 Hours](https://80000hours.org/), Substack posts on AI/LLMs  
