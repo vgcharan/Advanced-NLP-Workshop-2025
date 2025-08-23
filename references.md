@@ -1,4 +1,4 @@
-# References and Additional Resources – Advanced NLP with Transformers
+# References and Additional Resources
 
 ## Standard Resources
 - [DeepLearning.ai](https://www.deeplearning.ai/) – courses on deep learning & NLP  
