@@ -16,17 +16,17 @@
 
 - Dehghani, M., & Levin, M. (2024). *Bio-inspired AI: Integrating Biological Complexity into Artificial Intelligence.* [arXiv:2407.12345](https://arxiv.org/abs/2407.12345)  
 
-- Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E. H., ... & Zhou, D. (2022). *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.* NeurIPS. [arXiv:2201.11903](https://arxiv.org/abs/2201.11903)  
+- Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E. H., Le, Q. V., & Zhou, D. (2022). *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.* Advances in Neural Information Processing Systems (NeurIPS 2022). [Link](https://arxiv.org/abs/2201.11903)  
 
-- Chen, X., Zhou, J., Wang, X., & Yu, H. (2024). *Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs.* [arXiv:2406.09275](https://arxiv.org/abs/2406.09275)  
+- Chen, X., Xu, J., Liang, T., He, Z., Pang, J., Yu, D., Song, L., Liu, Q., Zhou, M., Zhang, Z., Wang, R., Tu, Z., Mi, H., & Yu, D. (2024). *Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs.* arXiv preprint arXiv:2412.21187. [Link](https://arxiv.org/abs/2412.21187)  
 
-- Wang, Z., & Zhao, W. (2024). *Metacognitive Prompting Improves Understanding in Large Language Models.* [arXiv:2405.17399](https://arxiv.org/abs/2405.17399)  
+- Wang, Y., & Zhao, Y. (2023). *Metacognitive Prompting Improves Understanding in Large Language Models.* arXiv preprint arXiv:2308.05342. [Link](https://arxiv.org/abs/2308.05342)  
 
-- Das, A., Deb, R., & Shrivastava, M. (2023). *Security and Privacy Challenges of Large Language Models: A Survey.* [arXiv:2304.09929](https://arxiv.org/abs/2304.09929)  
+- Das, B. C., Amini, M. H., & Wu, Y. (2024). *Security and Privacy Challenges of Large Language Models: A Survey.* arXiv preprint arXiv:2402.00888. [Link](https://arxiv.org/abs/2402.00888)  
 
-- Deng, Z., Guo, H., Chen, Z., Zhang, C., & Zhang, Y. (2023). *Multilingual Jailbreak Challenges in Large Language Models.* [arXiv:2307.02483](https://arxiv.org/abs/2307.02483)  
+- Deng, Y., Zhang, W., Pan, S. J., & Bing, L. (2023). *Multilingual Jailbreak Challenges in Large Language Models.* arXiv preprint arXiv:2310.06474. [Link](https://arxiv.org/abs/2310.06474)  
 
-- Anil, C., Mishra, S., & Gupta, A. (2023). *Many-shot Jailbreaking.* [arXiv:2310.04451](https://arxiv.org/abs/2310.04451)  
+- Anil, C., Durmus, E., Panickssery, N., Sharma, M., Benton, J., Kundu, S., Batson, J., Tong, M., Mu, J., Ford, D., Mosconi, F., Agrawal, R., Schaeffer, R., Bashkansky, N., Svenningsen, S., Lambert, M., Radhakrishnan, A., Denison, C., Hubinger, E. J., Bai, Y., Bricken, T., Maxwell, T., Schiefer, N., Sully, J., Tamkin, A., Lanhan, T., Nguyen, K., Korbak, T., Kaplan, J., Ganguli, D., Bowman, S. R., Perez, E., Grosse, R. B., & Duvenaud, D. (2024). *Many-shot Jailbreaking.* Advances in Neural Information Processing Systems (NeurIPS 2024). [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/ea456e232efb72d261715e33ce25f208-Paper-Conference.pdf)  
 
 - Lindsey, J., Gurnee, W., Ameisen, E., Chen, B., Pearce, A., Turner, N. L., Citro, C., Abrahams, D., Carter, S., Hosmer, B., Marcus, J., Sklar, M., Templeton, A., Bricken, T., McDougall, C., Cunningham, H., Henighan, T., Jermyn, A., Jones, A., Persic, A., Qi, Z., Thompson, T. B., Zimmerman, S., Rivoire, K., Conerly, T., Olah, C., & Batson, J. (2025). *On the Biology of a Large Language Model.* Transformer Circuits Thread. [Link](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)  
 
