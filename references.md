@@ -72,10 +72,13 @@
 
 ## Fellowships & Opportunities
 - [MATS Research Program](https://www.matsprogram.org/)  
-- [ARENA Education](https://www.arena.education/)  
-- [Global AI Safety Fellowship](https://globalaisafetyfellowship.com/)  
-- [IAPS AI Policy Fellowship](https://www.iaps.ai/fellowship)  
-- [AI Safety Camp](https://www.aisafety.camp/)  
+- [ARENA Education](https://www.arena.education/)
+- [Cambridge ERA:AI Fellowship](https://erafellowship.org/)
+- [Algoverse AI Safety Research Fellowship](https://algoverseairesearch.org/ai-safety-fellowship)  
+- [Supervised Program for Alignment Research (SPAR)](https://sparai.org/)  
+- [Global AI Safety Fellowship](https://globalaisafetyfellowship.com/)   
+- [AI Safety Camp](https://www.aisafety.camp/)
+- [IAPS AI Policy Fellowship](https://www.iaps.ai/fellowship) 
 - [INSAIT Summer Undergraduate Research Fellowship](https://insait.ai/surf/)  
 - [Swades.ai Fellowship Program](https://www.swades.ai/fellowship-program)  
 - [MITACS Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/)  
