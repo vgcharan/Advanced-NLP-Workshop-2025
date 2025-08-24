@@ -19,7 +19,6 @@ This workshop introduced participants to the foundations and applications of lar
 
 ## Repository Contents
 - `slides.pdf` — main presentation deck  
-- `notebooks/` — hands-on materials (to be uploaded)  
 - `references.md` — curated resources and reading list  
 
 ## License
