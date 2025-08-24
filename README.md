@@ -15,10 +15,13 @@ The full workshop recording is available on YouTube: [Watch Here](https://www.yo
 **Advanced NLP with Transformers**  
 
 ## Abstract
-This workshop introduced participants to the foundations and applications of large language models (LLMs). The session covered both conceptual insights and practical strategies for applying LLMs in real-world contexts.  
+This workshop introduced participants to the foundations and applications of large language models (LLMs), with focus on adaptation strategies like RAG and fine-tuning. In addition, current research trends and recent advances in the field were explored. The session covered both conceptual insights and practical strategies for applying LLMs in real-world contexts.  
 
 ## Repository Contents
-- `slides.pdf` — main presentation deck  
+- `slides.pdf` — main presentation deck
+- `Full_finetuning_structured.ipynb` — full fine-tuning implementation for structured data
+- `Full_finetuning_unstructured.ipynb` — full fine-tuning implementation for unstructured data
+- `LoRA_finetuning_structured.ipynb` — LoRA fine-tuning implementation for structured data  
 - `references.md` — curated resources and reading list  
 
 ## License
