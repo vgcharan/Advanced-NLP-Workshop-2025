@@ -64,7 +64,7 @@
 - [hu-po YouTube Channel](https://www.youtube.com/@hu-po) – AI/ML research paper discussions  
 - [AI Safety Atlas](https://ai-safety-atlas.com/)  
 - [Machine Learning Street Talk (MLST) Podcast](https://www.youtube.com/@MachineLearningStreetTalk)  
-- Blogs: [Less Wrong](https://www.lesswrong.com/), [80,000 Hours](https://80000hours.org/), Substack posts on AI/LLMs  
+- Blogs: [LessWrong](https://www.lesswrong.com/), [80,000 Hours](https://80000hours.org/), Substack posts on AI/LLMs  
 - Ethical LLM Jailbreaking:  
   - [Gandalf Baseline](https://gandalf.lakera.ai/baseline)  
   - [GPA Challenges](https://gpa.43z.one/)  
