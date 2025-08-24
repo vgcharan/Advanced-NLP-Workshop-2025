@@ -42,7 +42,7 @@
 
 - Li, Z., Xu, Y., & Wang, J. (2024). *Evaluating Psychological Safety of Large Language Models.* [arXiv:2407.13524](https://arxiv.org/abs/2407.13524)  
 
-- Tian, H., et al. (2023). *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding.* Computers & Education: Artificial Intelligence. [DOI](https://doi.org/10.1016/j.caeai.2023.100182)  
+- Tian, J., Hou, J., Wu, Z., Shu, P., Liu, Z., Xiang, Y., Gu, B., Filla, N., Li, Y., Liu, N., Chen, X., Tang, K., Liu, T., & Wang, X. (2024). *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding.* [arXiv preprint](https://arxiv.org/abs/2401.12983)  
 
 - Luu, R. K., & Buehler, M. J. (2024). *BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials.* Advanced Science, 11(10), 2306724. [DOI](https://doi.org/10.1002/advs.202306724)  
 
