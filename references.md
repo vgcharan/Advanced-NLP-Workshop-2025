@@ -28,15 +28,15 @@
 
 - Anil, C., Mishra, S., & Gupta, A. (2023). *Many-shot Jailbreaking.* [arXiv:2310.04451](https://arxiv.org/abs/2310.04451)  
 
-- Lindsey, J., et al. (2024). *On the Biology of a Large Language Model.* [arXiv:2402.12345](https://arxiv.org/abs/2402.12345)  
+- Lindsey, J., Gurnee, W., Ameisen, E., Chen, B., Pearce, A., Turner, N. L., Citro, C., Abrahams, D., Carter, S., Hosmer, B., Marcus, J., Sklar, M., Templeton, A., Bricken, T., McDougall, C., Cunningham, H., Henighan, T., Jermyn, A., Jones, A., Persic, A., Qi, Z., Thompson, T. B., Zimmerman, S., Rivoire, K., Conerly, T., Olah, C., & Batson, J. (2025). *On the Biology of a Large Language Model.* Transformer Circuits Thread. [Link](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)  
 
-- Hughes, J., et al. (2023). *Best-of-N Jailbreaking.* [arXiv:2311.07590](https://arxiv.org/abs/2311.07590)  
+- Hughes, J., Price, S., Lynch, A., Schaeffer, R., Barez, F., Koyejo, S., Sleight, H., Jones, E., Perez, E., & Sharma, M. (2024). *Best-of-N Jailbreaking.* arXiv preprint arXiv:2412.03556. [Link](https://arxiv.org/abs/2412.03556)  
 
-- Kim, J., Park, S., Lee, J., & Cho, K. (2023). *ProPILE: Probing Privacy Leakage in Large Language Models.* [arXiv:2311.07704](https://arxiv.org/abs/2311.07704)  
+- Kim, S., Yun, S., Lee, H., Gubri, M., Yoon, S., & Oh, S. J. (2023). *ProPILE: Probing Privacy Leakage in Large Language Models.* arXiv preprint arXiv:2307.01881. [Link](https://arxiv.org/abs/2307.01881)  
 
-- Guan, L., Zhang, H., Yu, H., & Zhou, D. (2024). *Deliberative Alignment: Reasoning Enables Safer Language Models.* [arXiv:2402.05000](https://arxiv.org/abs/2402.05000)  
+- Guan, M. Y., Joglekar, M., Wallace, E., Jain, S., Barak, B., Helyar, A., Dias, R., Vallone, A., Ren, H., Wei, J., Chung, H. W., Toyer, S., Heidecke, J., Beutel, A., & Glaese, A. (2024). *Deliberative Alignment: Reasoning Enables Safer Language Models.* arXiv preprint arXiv:2412.16339. [Link](https://arxiv.org/abs/2412.16339)  
 
-- Johnson, J., Rahwan, I., & Griffiths, T. (2023). *Imagining and Building Wise Machines: The Centrality of AI Metacognition.* [arXiv:2312.06600](https://arxiv.org/abs/2312.06600)  
+- Johnson, S. G. B., Karimi, A.-H., Bengio, Y., Chater, N., Gerstenberg, T., Larson, K., Levine, S., Mitchell, M., Rahwan, I., Schölkopf, B., & Grossmann, I. (2024). *Imagining and Building Wise Machines: The Centrality of AI Metacognition.* arXiv preprint arXiv:2411.02478. [Link](https://arxiv.org/abs/2411.02478)  
 
 - Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E. P., Zhang, H., Gonzalez, J. E., & Stoica, I. (2023). *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.* [arXiv preprint](https://arxiv.org/abs/2306.05685)  
 
