@@ -44,7 +44,8 @@
 
 - Tian, H., et al. (2023). *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding.* Computers & Education: Artificial Intelligence. [DOI](https://doi.org/10.1016/j.caeai.2023.100182)  
 
-- Luu, N., & Buehler, M. J. (2024). *BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials.* [arXiv:2406.12311](https://arxiv.org/abs/2406.12311)  
+- Luu, R. K., & Buehler, M. J. (2024). *BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials.* Advanced Science, 11(10), 2306724. [DOI](https://doi.org/10.1002/advs.202306724)  
+
 
 
 ## Standard Resources
