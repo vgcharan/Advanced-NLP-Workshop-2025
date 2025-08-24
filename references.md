@@ -10,7 +10,7 @@
 
 - Schoenegger, P., Tuminauskaite, I., Park, P. S., Bastos, R. V. S., & Tetlock, P. E. (2024). *Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy.* Science Advances, 10(45), eadp1528. [arXiv:2402.19379](https://arxiv.org/abs/2402.19379) | [DOI](https://doi.org/10.1126/sciadv.adp1528)
 
-- Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Chi, E. H. (2022). *Emergent Abilities of Large Language Models.* Transactions on Machine Learning Research (TMLR). [arXiv:2206.07682](https://arxiv.org/abs/2206.07682)  
+- Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). *Emergent Abilities of Large Language Models.* Transactions on Machine Learning Research (TMLR). [arXiv preprint](https://arxiv.org/abs/2206.07682)  
 
 - Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT. [DOI](https://doi.org/10.1145/3442188.3445922)  
 
