@@ -8,9 +8,9 @@
 
 - Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). *Improving Language Understanding by Generative Pre-Training.* OpenAI Technical Report. [PDF](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 
-- Schoenegger, P., Tuminauskaite, I., Park, P. S., Bastos, R. V. S., & Tetlock, P. E. (2024). *Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy.* Science Advances, 10(45), eadp1528. [arXiv:2402.19379](https://arxiv.org/abs/2402.19379) | [DOI](https://doi.org/10.1126/sciadv.adp1528)
+- Schoenegger, P., Tuminauskaite, I., Park, P. S., Bastos, R. V. S., & Tetlock, P. E. (2024). *Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy.* Science Advances, 10(45), eadp1528. [Link](https://arxiv.org/abs/2402.19379)
 
-- Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). *Emergent Abilities of Large Language Models.* Transactions on Machine Learning Research (TMLR). [arXiv preprint](https://arxiv.org/abs/2206.07682)  
+- Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., Yogatama, D., Bosma, M., Zhou, D., Metzler, D., Chi, E. H., Hashimoto, T., Vinyals, O., Liang, P., Dean, J., & Fedus, W. (2022). *Emergent Abilities of Large Language Models.* Transactions on Machine Learning Research (TMLR). [Link](https://arxiv.org/abs/2206.07682)
 
 - Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT. [DOI](https://doi.org/10.1145/3442188.3445922)  
 
@@ -38,11 +38,11 @@
 
 - Johnson, S. G. B., Karimi, A.-H., Bengio, Y., Chater, N., Gerstenberg, T., Larson, K., Levine, S., Mitchell, M., Rahwan, I., Schölkopf, B., & Grossmann, I. (2024). *Imagining and Building Wise Machines: The Centrality of AI Metacognition.* arXiv preprint arXiv:2411.02478. [Link](https://arxiv.org/abs/2411.02478)  
 
-- Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E. P., Zhang, H., Gonzalez, J. E., & Stoica, I. (2023). *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.* [arXiv preprint](https://arxiv.org/abs/2306.05685)  
+- Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E. P., Zhang, H., Gonzalez, J. E., & Stoica, I. (2023). *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.* arXiv preprint arXiv:2306.05685. [Link](https://arxiv.org/abs/2306.05685)
 
-- Li, X., Li, Y., Qiu, L., Joty, S., & Bing, L. (2022). *Evaluating Psychological Safety of Large Language Models.* [arXiv preprint](https://arxiv.org/abs/2212.10529)   
+- Li, X., Li, Y., Qiu, L., Joty, S., & Bing, L. (2022). *Evaluating Psychological Safety of Large Language Models.* arXiv preprint arXiv:2212.10529. [Link](https://arxiv.org/abs/2212.10529)
 
-- Tian, J., Hou, J., Wu, Z., Shu, P., Liu, Z., Xiang, Y., Gu, B., Filla, N., Li, Y., Liu, N., Chen, X., Tang, K., Liu, T., & Wang, X. (2024). *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding.* [arXiv preprint](https://arxiv.org/abs/2401.12983)  
+- Tian, J., Hou, J., Wu, Z., Shu, P., Liu, Z., Xiang, Y., Gu, B., Filla, N., Li, Y., Liu, N., Chen, X., Tang, K., Liu, T., & Wang, X. (2024). *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding.* arXiv preprint arXiv:2401.12983. [Link](https://arxiv.org/abs/2401.12983)
 
 - Luu, R. K., & Buehler, M. J. (2024). *BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-Inspired Materials.* Advanced Science, 11(10), 2306724. [DOI](https://doi.org/10.1002/advs.202306724)  
 
