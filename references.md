@@ -14,7 +14,7 @@
 
 - Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). *On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?* FAccT. [DOI](https://doi.org/10.1145/3442188.3445922)  
 
-- Dehghani, M., & Levin, M. (2024). *Bio-inspired AI: Integrating Biological Complexity into Artificial Intelligence.* [arXiv:2407.12345](https://arxiv.org/abs/2407.12345)  
+- Dehghani, N., & Levin, M. (2024). *Bio-inspired AI: Integrating Biological Complexity into Artificial Intelligence.* arXiv preprint arXiv:2411.15243. [Link](https://arxiv.org/abs/2411.15243)  
 
 - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E. H., Le, Q. V., & Zhou, D. (2022). *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.* Advances in Neural Information Processing Systems (NeurIPS 2022). [Link](https://arxiv.org/abs/2201.11903)  
 
