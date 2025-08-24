@@ -38,9 +38,9 @@
 
 - Johnson, J., Rahwan, I., & Griffiths, T. (2023). *Imagining and Building Wise Machines: The Centrality of AI Metacognition.* [arXiv:2312.06600](https://arxiv.org/abs/2312.06600)  
 
-- Zheng, L., Chiang, C., Li, T., & Zhang, Y. (2023). *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.* [arXiv:2306.05685](https://arxiv.org/abs/2306.05685)  
+- Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E. P., Zhang, H., Gonzalez, J. E., & Stoica, I. (2023). *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.* [arXiv preprint](https://arxiv.org/abs/2306.05685)  
 
-- Li, Z., Xu, Y., & Wang, J. (2024). *Evaluating Psychological Safety of Large Language Models.* [arXiv:2407.13524](https://arxiv.org/abs/2407.13524)  
+- Li, X., Li, Y., Qiu, L., Joty, S., & Bing, L. (2022). *Evaluating Psychological Safety of Large Language Models.* [arXiv preprint](https://arxiv.org/abs/2212.10529)   
 
 - Tian, J., Hou, J., Wu, Z., Shu, P., Liu, Z., Xiang, Y., Gu, B., Filla, N., Li, Y., Liu, N., Chen, X., Tang, K., Liu, T., & Wang, X. (2024). *Assessing Large Language Models in Mechanical Engineering Education: A Study on Mechanics-Focused Conceptual Understanding.* [arXiv preprint](https://arxiv.org/abs/2401.12983)  
 
