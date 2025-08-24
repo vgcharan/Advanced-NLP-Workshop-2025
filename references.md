@@ -8,7 +8,7 @@
 
 - Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). *Improving Language Understanding by Generative Pre-Training.* OpenAI Technical Report. [PDF](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 
-- Schoenegger, P., Whittlestone, J., & Nyholm, S. (2024). *Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy.* [arXiv:2401.10968](https://arxiv.org/abs/2401.10968)  
+Schoenegger, P., Tuminauskaite, I., Park, P. S., Bastos, R. V. S., & Tetlock, P. E. (2024). *Wisdom of the silicon crowd: LLM ensemble prediction capabilities rival human crowd accuracy.* Science Advances, 10(45), eadp1528. [DOI:10.1126/sciadv.adp1528] [arXiv:2402.19379]
 
 - Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Chi, E. H. (2022). *Emergent Abilities of Large Language Models.* Transactions on Machine Learning Research (TMLR). [arXiv:2206.07682](https://arxiv.org/abs/2206.07682)  
 
