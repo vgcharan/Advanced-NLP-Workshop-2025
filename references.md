@@ -52,7 +52,8 @@
 - [DeepLearning.ai](https://www.deeplearning.ai/) – courses on deep learning & NLP  
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) – intuitive explanations of math concepts  
 - [fast.ai](https://www.fast.ai/) – practical deep learning and NLP tutorials  
-- [Andrej Karpathy YouTube Channel](https://www.youtube.com/@AndrejKarpathy) – lectures on neural networks and transformers  
+- [Andrej Karpathy YouTube Channel](https://www.youtube.com/@AndrejKarpathy) – lectures on neural networks and transformers
+- [Smol AI newsletter](https://news.smol.ai/)
 - [Matthew Berman YouTube Channel](https://www.youtube.com/@matthew_berman) – AI-focused content
 - [BlueDot Impact](https://bluedot.org/) & AI Safety Collab - Courses on AI Governance
 - YouTube lecture series & Coursera courses on LLMs 
@@ -79,6 +80,7 @@
 - [Supervised Program for Alignment Research (SPAR)](https://sparai.org/)  
 - [Global AI Safety Fellowship](https://globalaisafetyfellowship.com/)   
 - [AI Safety Camp](https://www.aisafety.camp/)
+- [AI4H - Innovation Academy Bootcamp](https://ai4h.untapinnovate.com/programs/ai4h-innovation-academy)
 - [IAPS AI Policy Fellowship](https://www.iaps.ai/fellowship) 
 - [INSAIT Summer Undergraduate Research Fellowship](https://insait.ai/surf/)  
 - [Swades.ai Fellowship Program](https://www.swades.ai/fellowship-program)  
