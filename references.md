@@ -6,7 +6,9 @@
 
 - Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray, S., Chess, B., Clark, J., Berner, C., McCandlish, S., Radford, A., Sutskever, I., & Amodei, D. (2020). *Language Models are Few-Shot Learners.* NeurIPS. [Link](https://arxiv.org/abs/2005.14165)
 
-- Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). *Improving Language Understanding by Generative Pre-Training.* OpenAI Technical Report. [PDF](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
+- Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). *Improving Language Understanding by Generative Pre-Training.* OpenAI Technical Report. [PDF](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+- DeepSeek-AI, Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., Zhu, Q., Ma, S., Wang, P., Bi, X., Zhang, X., Yu, X., Wu, Y., Wu, Z. F., Gou, Z., Shao, Z., Li, Z., Gao, Z., Liu, A., Xue, B., Wang, B., Wu, B., Feng, B., Lu, C., Zhao, C., Deng, C., Zhang, C., Ruan, C., Dai, D., Chen, D., Ji, D., Li, E., Lin, F., Dai, F., Luo, F., Hao, G., Chen, G., Li, G., Zhang, H., Bao, H., Xu, H., Wang, H., Ding, H., Xin, H., Gao, H., Qu, H., Li, H., Guo, J., Li, J., Wang, J., Chen, J., Yuan, J., Qiu, J., Li, J., Cai, J. L., Ni, J., Liang, J., Chen, J., Dong, K., Hu, K., Gao, K., Guan, K., Huang, K., Yu, K., Wang, L., Zhang, L., Zhao, L., Wang, L., Zhang, L., Xu, L., Xia, L., Zhang, M., Zhang, M., Tang, M., Li, M., Wang, M., Li, M., Tian, N., Huang, P., Zhang, P., Wang, Q., Chen, Q., Du, Q., Ge, R., Zhang, R., Pan, R., Wang, R., Chen, R. J., Jin, R. L., Chen, R., Lu, S., Zhou, S., Chen, S., Ye, S., Wang, S., Yu, S., Zhou, S., Pan, S., Li, S. S., et al. (2025). *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.* arXiv preprint arXiv:2501.12948. [Link](https://arxiv.org/abs/2501.12948)
 
 - Schoenegger, P., Tuminauskaite, I., Park, P. S., Bastos, R. V. S., & Tetlock, P. E. (2024). *Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy.* Science Advances, 10(45), eadp1528. [Link](https://arxiv.org/abs/2402.19379)
 
@@ -20,8 +22,14 @@
 
 - Chen, X., Xu, J., Liang, T., He, Z., Pang, J., Yu, D., Song, L., Liu, Q., Zhou, M., Zhang, Z., Wang, R., Tu, Z., Mi, H., & Yu, D. (2024). *Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs.* arXiv preprint arXiv:2412.21187. [Link](https://arxiv.org/abs/2412.21187)  
 
-- Wang, Y., & Zhao, Y. (2023). *Metacognitive Prompting Improves Understanding in Large Language Models.* arXiv preprint arXiv:2308.05342. [Link](https://arxiv.org/abs/2308.05342)  
+- Wang, Y., & Zhao, Y. (2023). *Metacognitive Prompting Improves Understanding in Large Language Models.* arXiv preprint arXiv:2308.05342. [Link](https://arxiv.org/abs/2308.05342)
 
+- Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.* arXiv preprint arXiv:2005.11401. [Link](https://arxiv.org/abs/2005.11401)
+  
+- Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W. (2021). *LoRA: Low-Rank Adaptation of Large Language Models.* arXiv preprint arXiv:2106.09685. [Link](https://arxiv.org/abs/2106.09685)
+
+- Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). *QLoRA: Efficient Finetuning of Quantized LLMs.* arXiv preprint arXiv:2305.14314. [Link](https://arxiv.org/abs/2305.14314)
+  
 - Das, B. C., Amini, M. H., & Wu, Y. (2024). *Security and Privacy Challenges of Large Language Models: A Survey.* arXiv preprint arXiv:2402.00888. [Link](https://arxiv.org/abs/2402.00888)  
 
 - Deng, Y., Zhang, W., Pan, S. J., & Bing, L. (2023). *Multilingual Jailbreak Challenges in Large Language Models.* arXiv preprint arXiv:2310.06474. [Link](https://arxiv.org/abs/2310.06474)  
