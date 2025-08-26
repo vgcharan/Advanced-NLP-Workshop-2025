@@ -63,7 +63,7 @@
 - [Andrej Karpathy YouTube Channel](https://www.youtube.com/@AndrejKarpathy) – lectures on neural networks and transformers
 - [Smol AI newsletter](https://news.smol.ai/)
 - [Matthew Berman YouTube Channel](https://www.youtube.com/@matthew_berman) – AI-focused content
-- [BlueDot Impact](https://bluedot.org/) & AI Safety Collab - Courses on AI Governance
+- [BlueDot Impact](https://bluedot.org/) - Courses on AI Governance
 - YouTube lecture series & Coursera courses on LLMs 
  
 
@@ -73,7 +73,7 @@
 - [hu-po YouTube Channel](https://www.youtube.com/@hu-po) – AI/ML research paper discussions  
 - [AI Safety Atlas](https://ai-safety-atlas.com/)  
 - [Machine Learning Street Talk (MLST) Podcast](https://www.youtube.com/@MachineLearningStreetTalk)  
-- Blogs: [LessWrong](https://www.lesswrong.com/), [80,000 Hours](https://80000hours.org/), Substack posts on AI/LLMs  
+- Blogs: [LessWrong](https://www.lesswrong.com/), [80,000 Hours](https://80000hours.org/), [Substack](https://substack.com/home)   
 - Ethical LLM Jailbreaking:  
   - [Gandalf Baseline](https://gandalf.lakera.ai/baseline)  
   - [GPA Challenges](https://gpa.43z.one/)  
