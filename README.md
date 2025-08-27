@@ -31,8 +31,8 @@ This link is provided for participant exploration and further study.
 
 
 ## License
-Slides and written material are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-You are free to share and adapt this material with proper attribution.  
+- **Code (notebooks):** [MIT License](./LICENSE)  
+- **Slides and resources:** [CC BY 4.0](./LICENSE-CC-BY-4.0.md)
 
 ## Contact
 **V. Guru Charan** – [Email](mailto:vgc@pm.me) | [LinkedIn](https://www.linkedin.com/in/vgurucharan)
