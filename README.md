@@ -25,8 +25,7 @@ This workshop introduced participants to the foundations and applications of lar
 - `references.md` — curated resources and reading list
 
 ## Acknowledgements
-The Retrieval Augmented Generation (RAG) implementation demonstrated during the workshop was authored by **[V.Agam](https://github.com/v-agam)** and is available at:
-- [RAG Implementation Repository](https://github.com/v-agam/agro_homeopathy_app)
+The Retrieval Augmented Generation (RAG) implementation demonstrated during the workshop was authored by **[V.Agam](https://github.com/v-agam)** and is available at: [RAG Implementation Repository](https://github.com/v-agam/agro_homeopathy_app)
 
 All credit for the RAG code goes to **V.Agam**. This link is provided for participant exploration and further study.
 
