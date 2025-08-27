@@ -1,6 +1,6 @@
 # HT Media Group AI Workshop 2025
 
-This repository contains the slides and materials from the invited workshop organized by **HT Media Group** in 2025.  
+This repository contains the slides and materials from the invited workshop organized by **HT Media Group** in August 2025.  
 
 ## Event Details
 - **Event:** AI Workshop  
