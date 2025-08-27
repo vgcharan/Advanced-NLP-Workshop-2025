@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This work (slides, written material, and documentation in this repository) is licensed under a  
+This work (slides, written material and documentation in this repository) is licensed under a  
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to:
