@@ -24,7 +24,7 @@ This workshop introduced participants to the foundations and applications of lar
 - `LoRA_finetuning_structured.ipynb` — LoRA fine-tuning implementation for structured data  
 - `references.md` — curated resources and reading list
 
-## Acknowledgements
+## Referenced Repository
 The Retrieval Augmented Generation (RAG) implementation demonstrated during the workshop was authored by **[V.Agam](https://github.com/v-agam)** and is available at: [RAG Implementation Repository](https://github.com/v-agam/agro_homeopathy_app)
 
 This link is provided for participant exploration and further study.
