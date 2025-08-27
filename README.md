@@ -31,8 +31,8 @@ This link is provided for participant exploration and further study.
 
 
 ## License
-- **Code (notebooks):** [MIT License](./LICENSE)  
-- **Slides and resources:** [CC BY 4.0](./LICENSE-CC-BY-4.0.md)
+- **Code (Jupyter notebooks):** [MIT License](./LICENSE)  
+- **Slides and written material:** [CC BY 4.0](./LICENSE-CC-BY-4.0.md)
 
 ## Contact
 **V. Guru Charan** – [Email](mailto:vgc@pm.me) | [LinkedIn](https://www.linkedin.com/in/vgurucharan)
