@@ -84,6 +84,7 @@
 - [MATS Research Program](https://www.matsprogram.org/)  
 - [ARENA Education](https://www.arena.education/)
 - [Cambridge ERA:AI Fellowship](https://erafellowship.org/)
+- [Apart Lab Fellowship](https://apartresearch.com/lab#process)
 - [Algoverse AI Safety Research Fellowship](https://algoverseairesearch.org/ai-safety-fellowship)  
 - [Supervised Program for Alignment Research (SPAR)](https://sparai.org/)  
 - [Global AI Safety Fellowship](https://globalaisafetyfellowship.com/)
