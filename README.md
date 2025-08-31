@@ -3,7 +3,7 @@
 This repository contains the slides and materials from the invited workshop organized by **HT Media Group** in August 2025.  
 
 ## Event Details
-- **Event:** AI Workshop  
+- **Event:** NLP Workshop  
 - **Date:** 26 August 2025  
 - **Location:** Online  
 - **Organizer:** HT Media Group  
