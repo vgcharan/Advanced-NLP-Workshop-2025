@@ -15,7 +15,7 @@ The full workshop recording is available on YouTube: [Watch Here](https://www.yo
 **Advanced NLP with Transformers**  
 
 ## Abstract
-This workshop introduced participants to the foundations and applications of large language models (LLMs), with focus on adaptation strategies like RAG and fine-tuning. In addition, current research trends and recent advances in the field were explored. The session covered both conceptual insights and practical strategies for applying LLMs in real-world contexts.  
+This workshop introduced participants to the foundations and applications of large language models (LLMs), with focus on adaptation strategies like prompting, RAG and fine-tuning. In addition, current research trends and recent advances in the field were explored. The session covered both conceptual insights and practical strategies for applying LLMs in real-world contexts.  
 
 ## Repository Contents
 - `slides.pdf` — main presentation deck
